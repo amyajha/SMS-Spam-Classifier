@@ -38,5 +38,5 @@
 •	The dataset was split into training (80%) and testing (20%) sets.<br>
 •	Different classifiers were trained and evaluated using various performance metrics.</p><br>
 
-<p><h3>5. Conclusion:</h3><br>
+<p><h2> Conclusion:</h2><br>
 Among all the models tested, Multinomial Naive Bayes achieved the best balance of performance metrics, with particularly high precision—a key requirement for spam detection to reduce false positives. Given its reliability and efficiency, Multinomial Naive Bayes was chosen as the final model for deployment.</p><br>
